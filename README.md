@@ -8,7 +8,8 @@ TO RUN THIS CODE
 1. Login in to Instagram
 2. Go to https://www.instagram.com/
 3. Enter Console by pressing CTRL + SHIFT + J
-4. Paste the code in console and press Enter.
+4. Change username in code - Where my name is written there write your name
+5. Paste the code in console and press Enter.
 
 After Running the code it wil show following details -
 1. Followers Table
