@@ -1,4 +1,4 @@
-let username = 'sahilbambarde'
+let username = 'sahil_bambarde'
 let followers = [], followings = []
 try {
   let res = await fetch(`https://www.instagram.com/${username}/?__a=1`)
